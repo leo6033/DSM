@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.disc0ver.DSM", "com.disc0ver.DSM\com.disc0ver.DSM.csproj", "{55D9469D-4047-420C-BCBB-4B73DDD37393}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSM", "DSM\DSM.csproj", "{55D9469D-4047-420C-BCBB-4B73DDD37393}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odin", "Odin\Odin.csproj", "{F41EDCD1-C648-4B99-8C78-9CA995BA7F58}"
 EndProject

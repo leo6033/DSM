@@ -14,8 +14,8 @@ jobs:
     - name: split upm branch
       run: |
         git branch -d upm &> /dev/null || echo upm branch not found
-        mkdir -p 'Samples~'
-        git mv C#/DSM/com.disc0ver.DSM/Example 'Samples~/Examples'
+        # mkdir -p 'Samples~'
+        # git mv C#/DSM/com.disc0ver.DSM/Example 'Samples~/Examples'
         git subtree split -P "$PKG_ROOT" -b upm
         git checkout upm
 
@@ -26,4 +26,4 @@ jobs:
 
         git push -f -u origin upm
       env:
-        PKG_ROOT: C#/DSM/com.disc0ver.DSM/
+        PKG_ROOT: C#/DSM/DSM/com.disc0ver.DSM/

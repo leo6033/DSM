@@ -42,9 +42,9 @@
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
-      <ProjectReference Include="..\com.disc0ver.DSM\com.disc0ver.DSM.csproj">
+      <ProjectReference Include="..\DSM\DSM.csproj">
         <Project>{55d9469d-4047-420c-bcbb-4b73ddd37393}</Project>
-        <Name>com.disc0ver.DSM</Name>
+        <Name>DSM</Name>
       </ProjectReference>
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
