@@ -1,0 +1,9 @@
+{
+    "name": "com.disc0ver.state_machine",
+    "displayName": "DSM",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "游戏通用状态机",
+    "keywords": ["unity", "StateMachine"],
+    "category": "Unity"
+}
