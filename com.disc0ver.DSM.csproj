@@ -41,11 +41,11 @@
         <Compile Include="Example\Controller.cs" />
         <Compile Include="Example\States\RandomChangeState.cs" />
         <Compile Include="Example\States\WaitSecondsState.cs" />
-        <Compile Include="IState.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="StateMachine.cs" />
-        <Compile Include="StateMachine.Default.cs" />
-        <Compile Include="StateMachineOwner.cs" />
+        <Compile Include="Runtime\IState.cs" />
+        <Compile Include="Runtime\StateMachine.cs" />
+        <Compile Include="Runtime\StateMachine.Default.cs" />
+        <Compile Include="Runtime\StateMachineOwner.cs" />
     </ItemGroup>
     <ItemGroup>
       <ProjectReference Include="..\Odin\Odin.csproj">
