@@ -1,9 +1,0 @@
-E:\Learn\DSM\C#\DSM\DSM\bin\Debug\DSM.dll
-E:\Learn\DSM\C#\DSM\DSM\bin\Debug\DSM.pdb
-E:\Learn\DSM\C#\DSM\DSM\bin\Debug\Odin.dll
-E:\Learn\DSM\C#\DSM\DSM\bin\Debug\Odin.pdb
-E:\Learn\DSM\C#\DSM\DSM\obj\Debug\DSM.csproj.AssemblyReference.cache
-E:\Learn\DSM\C#\DSM\DSM\obj\Debug\DSM.csproj.CoreCompileInputs.cache
-E:\Learn\DSM\C#\DSM\DSM\obj\Debug\DSM.csproj.CopyComplete
-E:\Learn\DSM\C#\DSM\DSM\obj\Debug\DSM.dll
-E:\Learn\DSM\C#\DSM\DSM\obj\Debug\DSM.pdb
