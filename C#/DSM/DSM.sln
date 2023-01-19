@@ -1,8 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSM", "DSM\DSM.csproj", "{55D9469D-4047-420C-BCBB-4B73DDD37393}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.disc0ver.DSM", "com.disc0ver.DSM\com.disc0ver.DSM.csproj", "{55D9469D-4047-420C-BCBB-4B73DDD37393}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odin", "Odin\Odin.csproj", "{F41EDCD1-C648-4B99-8C78-9CA995BA7F58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{923E6FDE-5407-42BC-B450-0ADB71DCB122}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,6 +20,10 @@ Global
 		{F41EDCD1-C648-4B99-8C78-9CA995BA7F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F41EDCD1-C648-4B99-8C78-9CA995BA7F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F41EDCD1-C648-4B99-8C78-9CA995BA7F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923E6FDE-5407-42BC-B450-0ADB71DCB122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923E6FDE-5407-42BC-B450-0ADB71DCB122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923E6FDE-5407-42BC-B450-0ADB71DCB122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923E6FDE-5407-42BC-B450-0ADB71DCB122}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

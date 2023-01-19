@@ -1,0 +1,9 @@
+E:\Learn\DSM\C#\DSM\Odin\bin\Debug\Odin.dll
+E:\Learn\DSM\C#\DSM\Odin\bin\Debug\Odin.pdb
+E:\Learn\DSM\C#\DSM\Odin\bin\Debug\JetBrains.Annotations.dll
+E:\Learn\DSM\C#\DSM\Odin\bin\Debug\JetBrains.Annotations.xml
+E:\Learn\DSM\C#\DSM\Odin\obj\Debug\Odin.csproj.AssemblyReference.cache
+E:\Learn\DSM\C#\DSM\Odin\obj\Debug\Odin.csproj.CoreCompileInputs.cache
+E:\Learn\DSM\C#\DSM\Odin\obj\Debug\Odin.csproj.CopyComplete
+E:\Learn\DSM\C#\DSM\Odin\obj\Debug\Odin.dll
+E:\Learn\DSM\C#\DSM\Odin\obj\Debug\Odin.pdb
