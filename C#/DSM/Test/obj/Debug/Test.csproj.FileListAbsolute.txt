@@ -1,9 +1,0 @@
-E:\Learn\DSM\C#\DSM\Test\bin\Debug\Test.exe
-E:\Learn\DSM\C#\DSM\Test\bin\Debug\Test.pdb
-E:\Learn\DSM\C#\DSM\Test\bin\Debug\DSM.dll
-E:\Learn\DSM\C#\DSM\Test\bin\Debug\DSM.pdb
-E:\Learn\DSM\C#\DSM\Test\obj\Debug\Test.csproj.AssemblyReference.cache
-E:\Learn\DSM\C#\DSM\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
-E:\Learn\DSM\C#\DSM\Test\obj\Debug\Test.csproj.CopyComplete
-E:\Learn\DSM\C#\DSM\Test\obj\Debug\Test.exe
-E:\Learn\DSM\C#\DSM\Test\obj\Debug\Test.pdb
